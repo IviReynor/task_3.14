@@ -20,31 +20,29 @@ GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0]
 
 ### 3. [Первоначальная настройка GIT](3.md)
 
-### 4. Хостинги IT проектов и GIT hub
+### 4. [GIT hub](4.md)
 
-### 5. Основные команды для работы с GIT
+### 5. [Основные команды для работы с GIT](5.md)
 
 - *git add*
 - *git init*
 - *git commit*
 - *git clone*
 
-### 6. Проверка состояния репозитория ###
+### 6. [Проверка состояния репозитория](6.md)
 - git status
 - git log
 - git show
 
-### 7. Удаленный репозиторий 
+### 7. [Удаленный репозиторий](7.md) 
 - git fetch
 - git merge 
 - git pull
 - git push
 
-### 8. Коммиты 
+### 8. [Файл .gitignore](8.md)
 
-### 9. Файл .gitignore 
+### 9. [Виды ветвления](9.md)
 
-### 10. Ветвление 
-
-### 11. GIT fork
+### 10. [GIT fork](10.md)
 ---
