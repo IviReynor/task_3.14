@@ -24,21 +24,21 @@ GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0]
 
 ### 5. [Основные команды для работы с GIT](5.md)
 
-- *git add*
-- *git init*
-- *git commit*
-- *git clone*
+- [*git add*](5.1.md)
+- [*git init*](5.2.md)
+- [*git clone*](5.3.md)
+- [*git commit*](5.4.md)
 
 ### 6. [Проверка состояния репозитория](6.md)
-- git status
-- git log
-- git show
+- [*git status*](6.1.md)
+- [*git log*](6.2.md)
+- [*git show*](6.3.md)
 
 ### 7. [Удаленный репозиторий](7.md) 
-- git fetch
-- git merge 
-- git pull
-- git push
+- [*git fetch*](7.1.md)
+- [*git merge*](7.2.md)
+- [*git pull*](7.3.md)
+- [*git push*](7.4.md)
 
 ### 8. [Файл .gitignore](8.md)
 
